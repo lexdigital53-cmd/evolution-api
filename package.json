@@ -17,7 +17,7 @@
     "@whiskeysockets/baileys": "^6.7.6",
     "@figuro/chatwoot-sdk": "^1.1.17",   
     "openai": "^5.19.1",                  
-    "jimp": "^1.6.0"
+    "jimp": "^1.6.0",
     "axios": "^1.7.4",
     "class-transformer": "^0.5.1",
     "class-validator": "^0.14.1",
