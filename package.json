@@ -84,7 +84,8 @@
     "minio": "^8.0.2",
     "cross-fetch": "^4.0.0",
     "got": "^14.4.2",
-    "proxy-agent": "^6.4.0"
+    "proxy-agent": "^6.4.0",
+    "undici": "^6.19.8"
   },
   "devDependencies": {
     "@commitlint/cli": "^19.8.1",
