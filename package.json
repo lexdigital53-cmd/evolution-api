@@ -76,7 +76,8 @@
     "socket.io-client": "^4.8.1",
     "swagger-ui-express": "^5.0.1",
     "tsup": "^8.3.5",
-    "uuid": "^13.0.0"
+    "uuid": "^13.0.0",
+    "node-cache": "^5.1.2"
   },
   "devDependencies": {
     "@commitlint/cli": "^19.8.1",
