@@ -17,6 +17,7 @@
     "@whiskeysockets/baileys": "^6.7.6",
     "@figuro/chatwoot-sdk": "^1.1.17",
     "@ffmpeg-installer/ffmpeg": "^1.0.19",
+    "@paralleldrive/cuid2": "^2.2.2",
     "openai": "^5.19.1",                  
     "jimp": "^1.6.0",
     "axios": "^1.7.4",
